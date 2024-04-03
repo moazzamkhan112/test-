@@ -1,2 +1,5 @@
 let name ="moazzam"
-console.log(name);
+
+let user ="ali";
+console.log(name +'  ' + user);
+
